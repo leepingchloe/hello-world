@@ -8,3 +8,6 @@ Simple Hello-world exercise to:
 * Start and manage a new branch
 * Make changes to a file and push them to Github as commits
 * Open and merge a pull request
+
+Guide credit to:
+https://guides.github.com/activities/hello-world/
